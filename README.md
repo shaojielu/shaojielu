@@ -1,6 +1,6 @@
-- ##👋 Hi, I’m @shaojielu
-- ##👀 I'm interested in deep learning in machine learning
-- ##🌱 I’m currently learning web3
+- ## 👋 Hi, I’m @shaojielu
+- ## 👀 I'm interested in deep learning in machine learning
+- ## 🌱 I’m currently learning web3
 
 
 <!---
